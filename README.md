@@ -4,8 +4,8 @@
   <p><strong>AI @ BUPT</strong> · Robotics / World Models / Generative Video</p>
 
   <!-- 徽章（shields.io），按需删改 -->
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-your_email%40example.com-informational?logo=gmail"></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-your--username-black?logo=github"></a>
+  <a href="mailto:zhangzilu05@gmail.com"><img src="https://img.shields.io/badge/Email-your_email%40example.com-informational?logo=gmail"></a>
+  <a href="https://github.com/ZZL-2005"><img src="https://img.shields.io/badge/GitHub-your--username-black?logo=github"></a>
   <a href="https://scholar.google.com/citations?user=XXXX"><img src="https://img.shields.io/badge/Scholar-Profile-0B3D91?logo=google-scholar"></a>
   <a href="https://www.linkedin.com/in/yourid/"><img src="https://img.shields.io/badge/LinkedIn-yourid-0A66C2?logo=linkedin"></a>
   <br/>
