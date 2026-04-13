@@ -1,0 +1,7 @@
+<svg width="1200" height="96" viewBox="0 0 1200 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="warm footer">
+  <rect width="1200" height="96" rx="24" fill="#F7F0E6"/>
+  <path d="M0 58C122 38 213 69 338 56C508 39 638 15 806 42C953 66 1052 76 1200 50V96H0V58Z" fill="#E8DCCB"/>
+  <path d="M0 74C151 51 283 83 430 68C597 51 740 39 900 57C1036 72 1112 79 1200 65V96H0V74Z" fill="#D97757" fill-opacity="0.16"/>
+  <text x="600" y="45" text-anchor="middle" fill="#2F2A24" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="600">Agent systems | Interpretability | Embodied safety | Deep learning theory</text>
+  <text x="600" y="68" text-anchor="middle" fill="#8B5E3C" font-family="Inter, Arial, sans-serif" font-size="13">GitHub README cannot change the outer page background, so the warm surface is built with SVG panels.</text>
+</svg>

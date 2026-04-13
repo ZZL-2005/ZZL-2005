@@ -1,5 +1,7 @@
 <div align="center">
-  <img width="100%" alt="warm profile banner" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=F4EFE7&text=Zilu%20Zhang%20%2F%20ZZL&fontColor=2F2A24&fontSize=42&fontAlignY=38&desc=BUPT%20AI%20%7C%20Agent%20Systems%20%7C%20Interpretability%20%7C%20Embodied%20Safety&descAlignY=58&descSize=15&section=header"/>
+  <img width="100%" alt="Zilu Zhang warm Claude-style profile banner" src="./assets/claude-hero.svg"/>
+
+  <br/>
 
   <a href="mailto:zhangzilu05@gmail.com"><img src="https://img.shields.io/badge/Email-zhangzilu05%40gmail.com-D97757?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="mailto:2227404880@qq.com"><img src="https://img.shields.io/badge/QQ%20Mail-2227404880%40qq.com-8B5E3C?style=flat-square&logo=maildotru&logoColor=white"></a>
@@ -8,6 +10,8 @@
 </div>
 
 <br/>
+
+<img width="100%" alt="warm divider" src="./assets/claude-divider.svg"/>
 
 <table>
   <tr>
@@ -31,6 +35,13 @@
     </td>
   </tr>
 </table>
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Agent%20Systems-D97757?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Interpretability-8B5E3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Embodied%20Safety-A76545?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-DL%20Theory-2F2A24?style=flat-square"/>
+</p>
 
 ## Research
 
@@ -118,6 +129,6 @@ Maximized UAV smoke-screen occlusion duration. The key observation was that most
 <br/>
 
 <div align="center">
-  <sub>Warm ivory, deep brown, and terracotta. Built from my current CV.</sub>
+  <img width="100%" alt="warm footer" src="./assets/claude-footer.svg"/>
 </div>
 

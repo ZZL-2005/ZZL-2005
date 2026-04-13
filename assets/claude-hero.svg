@@ -1,0 +1,16 @@
+<svg width="1200" height="310" viewBox="0 0 1200 310" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Zilu Zhang profile banner</title>
+  <desc id="desc">A warm Claude-style banner for a GitHub profile README.</desc>
+  <rect width="1200" height="310" rx="0" fill="#F7F0E6"/>
+  <path d="M0 236C145 212 226 264 362 239C505 213 602 146 744 169C897 194 987 256 1200 219V310H0V236Z" fill="#E8DCCB"/>
+  <path d="M0 257C150 230 272 284 430 255C610 222 706 181 858 205C999 227 1058 271 1200 246V310H0V257Z" fill="#D97757" fill-opacity="0.18"/>
+  <circle cx="1038" cy="80" r="42" fill="#D97757" fill-opacity="0.18"/>
+  <circle cx="1096" cy="132" r="24" fill="#8B5E3C" fill-opacity="0.18"/>
+  <circle cx="964" cy="132" r="16" fill="#A76545" fill-opacity="0.18"/>
+  <rect x="54" y="54" width="1092" height="202" rx="26" fill="#FBF8F2" stroke="#E8DCCB" stroke-width="2"/>
+  <rect x="78" y="78" width="96" height="8" rx="4" fill="#D97757"/>
+  <rect x="78" y="94" width="54" height="8" rx="4" fill="#8B5E3C" fill-opacity="0.62"/>
+  <text x="78" y="154" fill="#2F2A24" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700">Zilu Zhang / ZZL</text>
+  <text x="80" y="196" fill="#5C5147" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="500">BUPT AI undergraduate | Agent systems | Mechanistic interpretability | Embodied safety</text>
+  <text x="80" y="226" fill="#8B5E3C" font-family="Inter, Arial, sans-serif" font-size="16">Warm ivory, deep brown, and terracotta. Built from my current CV.</text>
+</svg>
